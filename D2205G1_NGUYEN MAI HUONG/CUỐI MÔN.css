@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria&family=Commissioner:wght@200;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alexandria&family=Commissioner:wght@200;300;400&family=IM+Fell+French+Canon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+.container{
+	margin: auto;
+	background: white;
+	width: 1000px;
+}
+.header{
+	overflow: hidden
+}
+.header img{
+	width: 100%;
+	height: 100%;
+}
+.header h1{
+	text-align: center;
+	color: #4E9F0F;
+	font-size: 52px;
+	font-family: 'Commissioner', sans-serif;
+}
+.main{
+	margin-bottom: 25px;
+	margin-top: 30px;
+}
+.row{
+	display: flex;
+	justify-content: space-between;
+	width: 812px;
+	height: 338px;
+	margin: auto;
+}
+.section-1 h2,p{
+	text-align: center;
+	color: #4E9F0F;
+}
+.section-1 h2{
+	font-size: 40px;
+	margin-bottom: 5px;
+	font-family: 'IM Fell French Canon', serif;
+}
+.section-1 p{
+	font-size: 20px;
+	margin-bottom: 40px;
+	font-family: 'IM Fell French Canon', serif;
+}
+.sec-1a,.sec-1b,.sec-1c{
+	width: 253px;
+	height: 339px;
+	background: #CBE9B3;	
+}
+.t-sec-1{
+	text-align: center;
+	color: #343362;
+	font-size: 20px;
+	font-family: 'Inter', sans-serif !important;
+}
+.sec-2a,.sec-2b,.sec-2c{
+	width: 253px;
+	height: 339px;
+	background: #CBE9B3;
+}
+h3{
+	font-size: 40px;
+	color: #4E9F0F;
+	text-align: center;
+	margin-bottom: 5px;
+	font-family: 'IM Fell French Canon', serif;
+}
+.section-2 p{
+	font-size: 20px;
+	margin-bottom: 40px;
+	font-family: 'IM Fell French Canon', serif;
+}
+.sec-3 h3{
+	color: #535D8E;
+	padding-top: 13px;
+}
+.sec3p3 {
+	font-size: 20px;
+	color: #535D8E;
+	font-family: 'IM Fell French Canon', serif;
+}
+.sec-3 {
+	background: #FFE2DF;
+	height: 146px;
+	margin-bottom: 25px;
+}
+.row1{
+	display: flex;
+	justify-content: space-between;
+	height: 311px;
+	font-size: 20px;
+	overflow: hidden;
+}
+.box p,h4,a{
+	text-align: left;
+	margin-left: 60px;
+	width: 387px;
+	margin-bottom: 10px
+}
+.box h4{
+	color:#EE6A82;
+	font-size: 36px;
+}
+.box{
+	width: 50%;
+}
+.row2{
+	display: flex;
+	justify-content: space-between;
+	height: 311px;
+	font-size: 20px;
+	overflow: hidden;
+}
+.box-center p,h4{
+	text-align: left;
+	margin-left: 60px;
+	width: 387px;
+	margin-bottom: 10px
+}
+b{
+	font-style: italic;
+	color: #5C7BB8;
+	text-decoration:underline;
+}
+.box-center h4{
+	color:#EE6A82;
+	font-size: 36px;
+}
+.box-center{
+	width: 50%;
+}
+.row1 img{
+	width: 100%;
+}
+.row2 img{
+	width: 100%;
+}
+.text{
+	color: #5C7BB8;
+}
+.row3{
+	display: flex;
+	justify-content: space-between;
+	height: 177px;
+	width: 812px;
+	overflow: hidden;
+	margin: auto;
+	margin-bottom: 15px;
+}
+.section-7 h2{
+	text-align: center;
+	color: #4E9F0F;
+	font-size: 40px;
+	margin-top: 45px;
+	font-family: 'IM Fell French Canon', serif;
+}
+.row3 img{
+	width: 100%
+}
+.footer-1{
+	background: #1A397C;
+	height: 149px;
+	margin-top: 45px;
+	font-family: 'IM Fell French Canon', serif;
+	color: #ffff;
+	font-size: 50PX;
+	text-align: center;
+	padding-top: 60px;
+}
+span{
+	font-family: 'Inter', sans-serif !important;
+	font-size: 35px;
+	
+}
+
+
+
